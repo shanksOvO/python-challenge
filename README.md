@@ -12,11 +12,11 @@ Before starting the assignment, be sure to complete the following steps:
 
 * In each folder that you just created, add the following content:
 
-** A new file called main.py. This will be the main script to run for each analysis.
+  * A new file called main.py. This will be the main script to run for each analysis.
 
-** A Resources folder that contains the CSV files you used. Make sure that your script has the correct path to the CSV file.
+  * A Resources folder that contains the CSV files you used. Make sure that your script has the correct path to the CSV file.
 
-** An analysis folder that contains your text file that has the results from your analysis.
+  * An analysis folder that contains your text file that has the results from your analysis.
 
 * Push these changes to GitHub or GitLab.
 
@@ -97,23 +97,23 @@ In addition, your final script should both print the analysis to the terminal an
 ## Results Printed out to correctly to terminal (40 points)
 * Results correctly display for PyBank:
 
-** Total Months (5 points)
+  * Total Months (5 points)
 
-** Total (5 points)
+ * Total (5 points)
 
-** Average Change (5 points)
+  * Average Change (5 points)
 
-** Greatest Increase (5 points)
+  * Greatest Increase (5 points)
 
-** Greatest Decrease (5 points)
+  * Greatest Decrease (5 points)
 
 * Results correctly display for PyPoll:
 
-** Total Votes (5 points)
+  * Total Votes (5 points)
 
-** Each candidate’s total votes and percent of votes (5 points)
+  * Each candidate’s total votes and percent of votes (5 points)
 
-** Winner (5 points)
+  * Winner (5 points)
 
 ## Code Runs Error Free (10 points)
 * Error Free (5 points)
@@ -123,23 +123,23 @@ In addition, your final script should both print the analysis to the terminal an
 ## Exports results to text file (30 points)
 * The text file contains for PyBank:
 
-** Total Months (2.5 points)
+  * Total Months (2.5 points)
 
-** Total (2.5 points)
+  * Total (2.5 points)
 
-** Average Change (5 points)
+  * Average Change (5 points)
 
-** Greatest Increase (5 points)
+  * Greatest Increase (5 points)
 
-** Greatest Decrease (5 points)
+  * Greatest Decrease (5 points)
 
 * The text file contains for Pypoll:
 
-** Total Votes (2.5 points)
+  * Total Votes (2.5 points)
 
-** Each candidate’s total votes and percent of votes (2.5 points)
+  * Each candidate’s total votes and percent of votes (2.5 points)
 
-** Winner (5 points)
+  * Winner (5 points)
 
 ## Code is cleaned and commented (10 points)
 * Has additional tests and debugging removed (5 points)
