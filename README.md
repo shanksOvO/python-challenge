@@ -148,13 +148,14 @@ In addition, your final script should both print the analysis to the terminal an
 
 # Grading
 This assignment will be evaluated against the requirements and assigned a grade according to the following table:
+| Grade | Points |
+|-------|--------|
+| A (+/-) | 90+    |
+| B (+/-) | 80-89  |
+| C (+/-) | 70-79  |
+| D (+/-) | 60-69  |
+| F (+/-) | < 60   |
 
-Grade	Points
-A (+/-)	90+
-B (+/-)	80–89
-C (+/-)	70–79
-D (+/-)	60–69
-F (+/-)	< 60
 # Submission
 To submit your Challenge assignment, click Submit, and then provide the URL of your GitHub repository for grading.
 
